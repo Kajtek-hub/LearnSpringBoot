@@ -17,8 +17,9 @@ public class CourseController {
 		return Arrays.asList(
 				
 				new Player(1, "Fernando Torres", "ST"),
-				new Player(2, "Eberechi Eze", "CAM")
-				
+				new Player(2, "Eberechi Eze", "CAM"),
+				new Player(3, "Bukayo Saka", "RW"),
+				new Player(4, "Gervinho", "LW")
 				);
 	}
 }
